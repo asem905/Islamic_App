@@ -1,13 +1,16 @@
 # 📿 Islamic Companion App  
 
 *A comprehensive Islamic toolkit featuring Azkar, Quran, Hadiths, Prayer Times, Qibla Direction, and Tafseer (explanations).*  
-Dark Mode: ![WhatsApp Image 2025-05-22 at 18 30 38 (2)](https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033)
-Light Mode: ![WhatsApp Image 2025-05-22 at 18 30 38 (3)](https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2)
-Pages Mode Selection: ![WhatsApp Image 2025-05-22 at 18 30 38 (1)](https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119)
-Azkar Selection:![WhatsApp Image 2025-05-22 at 18 30 38](https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771)
+Here's a more concise and visually optimized version of your README section with properly scaled images:
 
+### 🎨 App Interface  
 
-
+| Feature          | Preview        |
+|-----------------|---------------|
+| **Dark Mode**  | <img src="https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033" width="180"> |
+| **Light Mode** | <img src="https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2" width="180"> |
+| **Quran Pages Mode** | <img src="https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119" width="180"> |
+| **Azkar Menu** | <img src="https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771" width="180"> |
 
 ## ✨ Key Features  
 
