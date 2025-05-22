@@ -7,10 +7,11 @@ Here's a more concise and visually optimized version of your README section with
 
 | Feature          | Preview        |
 |-----------------|---------------|
-| **Dark Mode**  | <img src="https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033" width="180"> |
-| **Light Mode** | <img src="https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2" width="180"> |
-| **Quran Pages Mode** | <img src="https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119" width="180"> |
-| **Azkar Menu** | <img src="https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771" width="180"> |
+| **Dark Mode**  | <img src="https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033" width="250"> |
+| **Light Mode** | <img src="https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2" width="250"> |
+| **Quran Pages Mode** | <img src="https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119" width="250"> |
+| **Azkar Menu** | <img src="https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771" width="250"> |
+| **Hadith Page** | <img src="https://github.com/user-attachments/assets/a3487c0b-c702-46be-9853-ba8beffbc0b5" width="250"> |
 
 ## ✨ Key Features  
 
