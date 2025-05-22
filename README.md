@@ -2,16 +2,7 @@
 
 *A comprehensive Islamic toolkit featuring Azkar, Quran, Hadiths, Prayer Times, Qibla Direction, and Tafseer (explanations).*  
 Here's a more concise and visually optimized version of your README section with properly scaled images:
-
-### 🎨 App Interface  
-
-| Feature          | Preview        |
-|-----------------|---------------|
-| **Dark Mode**  | <img src="https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033" width="250"> |
-| **Light Mode** | <img src="https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2" width="250"> |
-| **Quran Pages Mode** | <img src="https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119" width="250"> |
-| **Azkar Menu** | <img src="https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771" width="250"> |
-| **Hadith Page** | <img src="https://github.com/user-attachments/assets/a3487c0b-c702-46be-9853-ba8beffbc0b5" width="250"> |
+![WhatsApp Image 2025-05-22 at 18 30 37 (1)](https://github.com/user-attachments/assets/38067212-6d10-4ae8-ae9c-5d4b9890852d)
 
 ## ✨ Key Features  
 
@@ -50,4 +41,15 @@ Here's a more concise and visually optimized version of your README section with
 - **Light/Dark Mode**: Supports light and dark mode.
 
 
+### 🎨 App Interface  
+
+| Feature          | Preview        |
+|-----------------|---------------|
+| **Home Page**  | <img src="https://github.com/user-attachments/assets/dff8d424-d3a3-4380-8def-116bef833414" width="500"> |
+| **Prayer Times Page**  | <img src="https://github.com/user-attachments/assets/38067212-6d10-4ae8-ae9c-5d4b9890852d" width="500"> |
+| **Dark Mode**  | <img src="https://github.com/user-attachments/assets/a3172390-3ea4-4775-97ef-42d6b081f033" width="500"> |
+| **Light Mode** | <img src="https://github.com/user-attachments/assets/3886b710-66d8-4552-a62c-acced3d367f2" width="500"> |
+| **Quran Pages Mode** | <img src="https://github.com/user-attachments/assets/96eab559-9a0b-4bd7-aaee-ac5eec6e5119" width="500"> |
+| **Azkar Menu** | <img src="https://github.com/user-attachments/assets/68e9780e-469e-46c9-a3af-a68bdc61b771" width="500"> |
+| **Hadith Page** | <img src="https://github.com/user-attachments/assets/a3487c0b-c702-46be-9853-ba8beffbc0b5" width="500"> |
 
