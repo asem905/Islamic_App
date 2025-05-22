@@ -40,7 +40,7 @@ Here's a more concise and visually optimized version of your README section with
 - **Light/Dark Mode**: Supports light and dark mode.
 
 
-### 🎨 App Interface  
+### 🎨 Some Of App Interface  
 
 | Feature          | Preview        |
 |-----------------|---------------|
