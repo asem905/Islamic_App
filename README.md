@@ -36,8 +36,8 @@ Here's a more concise and visually optimized version of your README section with
 
   
 ### 5. **Adding Notes**  
--Adding NOtes to remind yourself of certain ayah or hadith.
--Using local database as SQFLITE.
+- Adding NOtes to remind yourself of certain ayah or hadith.
+- Using local database as SQFLITE.
 
 ## 🛠️ Technical Implementation  
 - **Quran Audio**: From API then handle it by audio controllers.  
