@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/build/
 *.apk
 *.so
+/android/.gradle/
+/build/
+*.apk
